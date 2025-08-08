@@ -10,19 +10,19 @@ const ContactSection = () => {
     {
       icon: Mail,
       title: "Email",
-      detail: "alex.johnson@email.com",
-      link: "mailto:alex.johnson@email.com"
+      detail: "sirigirisrikar@gmail.com",
+      link: "mailto:sirigirisrikar@gmail.com"
     },
     {
       icon: Phone,
       title: "Phone",
-      detail: "+1 (555) 123-4567",
-      link: "tel:+15551234567"
+      detail: "9908367647",
+      link: "9908367647"
     },
     {
       icon: MapPin,
       title: "Location",
-      detail: "San Francisco, CA",
+      detail: "Nalgonda",
       link: "#"
     }
   ];
