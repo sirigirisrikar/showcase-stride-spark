@@ -21,17 +21,17 @@ const HeroSection = () => {
           <h1 className="text-5xl md:text-7xl font-bold mb-6 tracking-tight">
             Hi, I'm{" "}
             <span className="gradient-text">
-              Raheel
+              srikar
             </span>
           </h1>
           
           <p className="text-xl md:text-2xl text-muted-foreground mb-4 font-light">
-            Final Year Computer Science Student
+            Final Year Electronics And Communication Student
           </p>
           
           <p className="text-lg md:text-xl text-muted-foreground mb-8 max-w-2xl mx-auto leading-relaxed">
             Passionate about building innovative solutions with modern technologies. 
-            Specializing in full-stack development, data science, and machine learning.
+            Specializing in data science,VlSI Design
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
