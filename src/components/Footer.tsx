@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {/* Brand Section */}
           <div className="space-y-4">
-            <h3 className="text-2xl font-bold gradient-text">Alex Johnson</h3>
+            <h3 className="text-2xl font-bold gradient-text">Raheel</h3>
             <p className="text-muted-foreground leading-relaxed">
               Final year CS student passionate about creating innovative solutions 
               and pushing the boundaries of technology.
