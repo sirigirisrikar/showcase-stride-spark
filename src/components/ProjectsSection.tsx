@@ -27,16 +27,6 @@ const ProjectsSection = () => {
       live: "#",
       featured: true,
       stars: 89
-    },
-    {
-      title: "Task Management App",
-      description: "Productivity app with real-time collaboration, built using React Native and Firebase for cross-platform mobile experience.",
-      image: project3,
-      technologies: ["React Native", "Firebase", "TypeScript", "Redux"],
-      github: "#",
-      live: "#",
-      featured: false,
-      stars: 67
     }
   ];
 
