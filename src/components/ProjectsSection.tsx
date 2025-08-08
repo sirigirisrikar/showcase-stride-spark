@@ -9,20 +9,20 @@ import project3 from "@/assets/project3.jpg";
 const ProjectsSection = () => {
   const projects = [
     {
-      title: "E-Commerce Platform",
-      description: "Full-stack e-commerce solution with modern UI, payment integration, and admin dashboard. Built with React, Node.js, and MongoDB.",
+      title: "Displaying Temperature and humidity",
+      description: "Displaying Temperature and humidity using blynk IoT.",
       image: project1,
-      technologies: ["React", "Node.js", "MongoDB", "Stripe", "Tailwind CSS"],
+      technologies: ["Cloud Storage"],
       github: "#",
       live: "#",
       featured: true,
       stars: 124
     },
     {
-      title: "ML Price Predictor",
-      description: "Machine learning model for real estate price prediction using Python, scikit-learn, and data visualization libraries.",
+      title: "Agrosmart:IoT Driven precision farming solution",
+      description: "Agrosmart:IoT Driven precision farming solution .",
       image: project2,
-      technologies: ["Python", "TensorFlow", "Pandas", "Flask", "React"],
+      technologies: ["AI","Iot"],
       github: "#",
       live: "#",
       featured: true,
