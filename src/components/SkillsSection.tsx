@@ -22,10 +22,6 @@ const SkillsSection = () => {
     {
       title: "Tools & Technologies",
       skills: ["Git", "GitHub", "VS Code", "Linux", "Figma", "Postman", "Jest", "Cypress"]
-    },
-    {
-      title: "Soft Skills",
-      skills: ["Problem Solving", "Team Leadership", "Communication", "Project Management", "Agile", "Scrum"]
     }
   ];
 
