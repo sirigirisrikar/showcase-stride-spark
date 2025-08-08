@@ -6,22 +6,6 @@ const SkillsSection = () => {
     {
       title: "Frontend Development",
       skills: ["React", "TypeScript", "Next.js", "Vue.js", "Tailwind CSS", "SASS", "HTML5", "CSS3"]
-    },
-    {
-      title: "Backend Development", 
-      skills: ["Node.js", "Python", "Java", "Express.js", "Django", "Spring Boot", "REST APIs", "GraphQL"]
-    },
-    {
-      title: "Database & Cloud",
-      skills: ["PostgreSQL", "MongoDB", "MySQL", "Redis", "AWS", "Docker", "Kubernetes", "Firebase"]
-    },
-    {
-      title: "Data Science & AI",
-      skills: ["Python", "TensorFlow", "PyTorch", "Pandas", "NumPy", "Scikit-learn", "Jupyter", "R"]
-    },
-    {
-      title: "Tools & Technologies",
-      skills: ["Git", "GitHub", "VS Code", "Linux", "Figma", "Postman", "Jest", "Cypress"]
     }
   ];
 
